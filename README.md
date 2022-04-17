@@ -1,6 +1,6 @@
 # GitHubUserApp2
 
-This is an Android application that can be used to search GitHub user in it. Here is simple explanation haow to use this app:
+This is an Android application that can be used to search GitHub user in it. Here is simple explanation how to use this app:
 1. Click search logo on app bar in the home screen
 2. Type username you want to search
 3. Click a username from hte list if you want to see the detail
